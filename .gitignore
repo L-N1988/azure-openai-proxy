@@ -16,5 +16,7 @@
 
 .idea/
 bin/
+docker-compose.yml
 release/
 dist/
+docker-run.sh
